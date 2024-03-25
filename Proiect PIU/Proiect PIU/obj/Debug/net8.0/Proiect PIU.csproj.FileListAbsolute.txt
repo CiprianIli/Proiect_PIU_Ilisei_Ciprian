@@ -1,0 +1,14 @@
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\obj\Debug\net8.0\Proiect PIU.GeneratedMSBuildEditorConfig.editorconfig
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\obj\Debug\net8.0\Proiect PIU.AssemblyInfoInputs.cache
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\obj\Debug\net8.0\Proiect PIU.AssemblyInfo.cs
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\obj\Debug\net8.0\Proiect PIU.csproj.CoreCompileInputs.cache
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\bin\Debug\net8.0\Proiect PIU.exe
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\bin\Debug\net8.0\Proiect PIU.deps.json
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\bin\Debug\net8.0\Proiect PIU.runtimeconfig.json
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\bin\Debug\net8.0\Proiect PIU.dll
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\bin\Debug\net8.0\Proiect PIU.pdb
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\obj\Debug\net8.0\Proiect PIU.dll
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\obj\Debug\net8.0\refint\Proiect PIU.dll
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\obj\Debug\net8.0\Proiect PIU.pdb
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\obj\Debug\net8.0\Proiect PIU.genruntimeconfig.cache
+C:\PIU\PROIECT PIU\Proiect PIU\Proiect PIU\obj\Debug\net8.0\ref\Proiect PIU.dll

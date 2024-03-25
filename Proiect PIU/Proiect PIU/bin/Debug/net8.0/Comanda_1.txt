@@ -1,0 +1,5 @@
+ID Comanda: 1
+Data: 3/24/2024 10:37:36 PM
+Produse:
+  - Nume: proc, Pret: 200, Cantitate: 1
+Total: 200
